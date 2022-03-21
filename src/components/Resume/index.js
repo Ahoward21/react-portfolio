@@ -82,16 +82,13 @@ function Resume() {
                         </div>
                         <ul>
                             <li>
-                                - 
+                                - Responsible for creating, developing and maintaining relationships with potential clients.
                             </li>
                             <li>
-                                - 
+                                - Provide customer support for UI of product. 
                             </li>
                             <li>
-                                - 
-                            </li>
-                            <li>
-                                - 
+                                - Get new clients to sign up for Reach.
                             </li>
                         </ul>
                     </article>
