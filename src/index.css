@@ -90,6 +90,7 @@ a:hover {
 /* HEADER START */
 header {
   margin: 50px;
+  background-image: url(./assets/earth.png)
 }
 
 .nav {

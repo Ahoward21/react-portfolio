@@ -17,7 +17,7 @@ function Footer() {
                     </a>
                 </div>
                 <div className="footer-copyright">
-                    <p className="footer-copyright"> &copy; 2021 Adam</p>
+                    <p className="footer-copyright"> &copy; 2022 Adam</p>
                 </div>
             </div>
         </footer>
