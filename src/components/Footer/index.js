@@ -1,7 +1,6 @@
 import React from 'react';
 import GitHubIcon from '../../assets/icon_gitHub.png';
 import LinkedInIcon from '../../assets/icon_LinkedIn.png';
-// import snellIcon from '../../assets/icon_snell.png';
 
 
 function Footer() {
