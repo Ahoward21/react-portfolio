@@ -7,6 +7,7 @@ import img2 from '../../assets/projects/2.png'
 import img3 from '../../assets/projects/3.png'
 import img4 from '../../assets/projects/4.png'
 import img5 from '../../assets/projects/5.png'
+import img7 from '../../assets/projects/7.png'
 // import img6 from '../../assets/projects/6.png'
 
 function Projects() {
@@ -20,12 +21,12 @@ function Projects() {
             img: `${img0}`
         },
         {
-            name: 'Budget Tracker',
-            description: 'This is an progressive web app for a budget tracker that allows for offline access and functionality.',
-            github: 'https://github.com/Ahoward21/budget-pwa',
-            deployedApp: 'https://peaceful-sands-39151.herokuapp.com/',
-            skills: 'HTML, CSS, JavaScript, IndexDB, Service Workers, Web Manifest',
-            img: `${img1}`
+            name: 'GG Denim Brand Template',
+            description: 'This is an ecommerce site for the brand GG Denim',
+            github: 'https://github.com/Abduler21/brand-template',
+            deployedApp: 'https://brand-to-death.herokuapp.com/',
+            skills: 'React, Graphql, JWS, Javascript, Stripe',
+            img: `${img7}`
         },
         {
             name: 'Password Generator',
